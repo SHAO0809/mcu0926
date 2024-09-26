@@ -10,7 +10,6 @@ stock = ["1101","2330","1102"]
 	    # 現在處理的股票
 
 	    stockid = stock[i]
-
 	    # 網址塞入股票編號
 
 	    url = "https://tw.stock.yahoo.com/quote/"+stockid+".TW"
